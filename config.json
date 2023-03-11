@@ -7,7 +7,7 @@
     "footer": "api.zeeoneofc.my.id",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
-    "pathimg": "./Haruka.jpg",
+    "pathimg": "./images.jpeg",
     "BotKey": "twRIYugceqQJM3j",
     "audio_di_bagian_menu": "./menu.mp3",
     "auto_welcomeMsg": false,
